@@ -1,5 +1,5 @@
 # 智源评测报告
-作者：[FlagEval](<https:/https://flageval.baai.ac.cn/>) 
+作者：[FlagEval](<https://flageval.baai.ac.cn/>) 
 ## 关于本书
 
 本技术报告详细介绍了智源人工智能研究院历经3个月筹备的大模型评测，对评测方法、流程和结果进行系统说明。
@@ -48,7 +48,7 @@ title = {AI大模型能力全景扫描},
 year = {2024},
 author = {FlagEval},
 address = {北京},
-url = {https://github.com/FlagOpen/FlagEval/blob/master/AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E5%85%A8%E6%99%AF%E6%89%AB%E6%8F%8F.pdf},
+url = {https://flagopen.github.io/FlagEval_Report/},
 }
 ```
 
