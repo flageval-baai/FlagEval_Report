@@ -14,8 +14,9 @@
 
 
 ## 概要
+**第二期全文** [pdf](<https://github.com/flageval-baai/FlagEval/blob/master/AI_%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E5%85%A8%E6%99%AF%E6%89%AB%E6%8F%8F%20%E7%AC%AC%E4%BA%8C%E6%9C%9F.pdf>) (updated 2024-12-30)
 
-**全文内容** [pdf](<https://github.com/FlagOpen/FlagEval/blob/master/AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E5%85%A8%E6%99%AF%E6%89%AB%E6%8F%8F.pdf>) (updated 2024-07-13)
+**第一期全文** [pdf](<https://github.com/FlagOpen/FlagEval/blob/master/AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E5%85%A8%E6%99%AF%E6%89%AB%E6%8F%8F.pdf>) (updated 2024-07-13)
 
 
 <!-- ### 章节内容
@@ -41,6 +42,15 @@
 
 ## 引用信息
 
+```
+@book{flageval2025,
+title = {AI大模型能力全景扫描 第二期},
+year = {2025},
+author = {FlagEval},
+address = {北京},
+url = {https://flagopen.github.io/FlagEval_Report/},
+}
+```
 
 ```
 @book{flageval2024,
